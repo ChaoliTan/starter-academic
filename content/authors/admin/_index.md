@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Chaoli Tan
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Software Develop Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: New York Institute of Technology Vancouver Campus
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Software Develop, Web Develop, Microservice and Cloud.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Software Development
+- Web Development
+- Microservice
+- Cloud Service
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: M.S. in Cybersecurity
+    institution: New York Institute of Technology - Vancouver
+    year: 2020
+  - course: M.S. in Computational Electromagnetic
+    institution: Nanjing University of Science & Technology
+    year: 2014
+  - course: B.S. in Engineering of Communication
+    institution: Hefei University
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +45,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: "mailto:ctan7749@gmail.com"  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.linkedin.com/in/tan-chaoli-672a03182/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ChaoliTan
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Chaoli Tan is currently a Cybersecurity student at New York Institute of Technology - Vancouver campus. In NYIT, Chaoli studied a lot of Data Structures and Algorithms. He also did many security labs from Seed Labs. During the last two years, he learned some skills, such as HTML, CSS, Java, Spring Boot, Spring Cloud, and did some projects following some tutorial guides and courses. Chaoli is interested in Computer Science since he was a little child. He decided and began to grasp the interest again in Computer Science even though he has been a RF Engineer for 5 years. After graduate, he would like to work as a Software Develop Engineer.
