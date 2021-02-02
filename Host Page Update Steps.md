@@ -14,11 +14,11 @@
    * git commit -m "Update person host page"
    * git push -u origin master
 6. Also, commit __public__ files to personal host page.
-   * hugo // Would create **static html website** to **public** file from **source code**
+   * hugo  # Would create **static html website** to **public** file from **source code**
    * cd public 
    * git add .
    * git commit -m "Update website"
-   * git push origin master // Might need your Github account and password.
+   * git push origin master  # Might need your Github account and password.
 
 
 
